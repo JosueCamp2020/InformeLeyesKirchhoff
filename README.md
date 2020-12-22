@@ -37,3 +37,5 @@
 | 1 | Protoboard  |
 
 5.EXPLICACIÓN
+
+La importancia de la experimentación radica en la observación del experimento que comprueba las leyes establecidas, en este caso con la ley de Kirchhoff donde al realizar una conexión de un circuito resistivo mixtos, se puede observar nodos, los cuales son puntos donde mas de 2 resistencias se encuentran conectadas, y también se observa un circuito en serie, donde es posible analizar los voltajes de cada resistencia y también la corriente con el objetivo de analizar las diferencias que existen en dichos circuitos y también analizar el comportamiento de todo un circuito eléctrico y también de forma individual de forma mas detallada, es muy importante comprender y analizar el comportamiento de la corriente eléctrica ya que esta es el pilar de cualquier mecanismo eléctrico.
