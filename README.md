@@ -26,16 +26,27 @@
 3. DIAGRAMAS
 
 4. LISTA DE COMPONENTES
+
 | CANTIDAD | MATERIAL O EQUIPO |
 | ------------- | ------------- |
-| 1 | Fuentes de Voltaje CD  |
-| 2 | Multímetros Digitales |
-| 1 | Resistor de 1 kΩ |
-| 2 | Resistor de 2.2 kΩ |
-| 1 | Resistor de 1.8 kΩ  |
-| 1 | Resistor de 3.9 kΩ  |
-| 1 | Protoboard  |
+| 1 | Fuentes de Voltaje CD     |
+| 2 | Multímetros Digitales     |
+| 1 | Resistor de 1 kΩ          |
+| 2 | Resistor de 2.2 kΩ        |
+| 1 | Resistor de 1.8 kΩ        |
+| 1 | Resistor de 3.9 kΩ        |
+| 1 | Protoboard                |
 
-5.EXPLICACIÓN
+5. EXPLICACIÓN
 
-La importancia de la experimentación radica en la observación del experimento que comprueba las leyes establecidas, en este caso con la ley de Kirchhoff donde al realizar una conexión de un circuito resistivo mixtos, se puede observar nodos, los cuales son puntos donde mas de 2 resistencias se encuentran conectadas, y también se observa un circuito en serie, donde es posible analizar los voltajes de cada resistencia y también la corriente con el objetivo de analizar las diferencias que existen en dichos circuitos y también analizar el comportamiento de todo un circuito eléctrico y también de forma individual de forma mas detallada, es muy importante comprender y analizar el comportamiento de la corriente eléctrica ya que esta es el pilar de cualquier mecanismo eléctrico.
+
+6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+7. CONCLUSIONES 
+
+* Recomendamos que para el uso respectivo tanto como las leyes de Ohm como las de Kirchhoffdebemos tener en cuenta nuestro circuito si está en serie o paralelo.
+* Para verificar si nuestro proceso es el adecuado debemos  tener en cuenta que los equipos demedición  deben ser  lo  más  precisos,   para  que  nos  de   los resultados  que   hemos  desarrollado previamente
+
+8. BIBLIOGRAFÍA
+
+10. ANEXOS
