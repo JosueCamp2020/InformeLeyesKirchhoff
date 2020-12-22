@@ -82,4 +82,6 @@ Al realizar este tipo de conexión mixta se analiza de forma individual como un 
 
 7. BIBLIOGRAFIA
 
+* McAllister, W. (2018). khanacademy.org. Obtenido de Khan Academy: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
 
