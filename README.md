@@ -23,3 +23,17 @@
 
 ![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/3.jpg)
 
+3. DIAGRAMAS
+
+4. LISTA DE COMPONENTES
+| CANTIDAD | MATERIAL O EQUIPO |
+| ------------- | ------------- |
+| 1 | Fuentes de Voltaje CD  |
+| 2 | Multímetros Digitales |
+| 1 | Resistor de 1 kΩ |
+| 2 | Resistor de 2.2 kΩ |
+| 1 | Resistor de 1.8 kΩ  |
+| 1 | Resistor de 3.9 kΩ  |
+| 1 | Protoboard  |
+
+5.EXPLICACIÓN
