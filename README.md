@@ -23,4 +23,3 @@
 
 ![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/3.jpg)
 
-
