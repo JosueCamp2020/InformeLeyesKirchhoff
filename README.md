@@ -70,9 +70,14 @@ Se concluye como la anterior dado que tambien existe un valor erroneo en los cal
 | 1 | Resistor de 3.9 kΩ  |
 | 1 | Protoboard  |
 
-5.EXPLICACIÓN
+5. EXPLICACIÓN
 
 La importancia de la experimentación radica en la observación del experimento que comprueba las leyes establecidas, en este caso con la ley de Kirchhoff donde al realizar una conexión de un circuito resistivo mixtos, se puede observar nodos, los cuales son puntos donde mas de 2 resistencias se encuentran conectadas, se observa un circuito en serie, donde es posible analizar los voltajes de cada resistencia y también la corriente con el objetivo de analizar las diferencias que existen en dichos circuitos y al analizar el comportamiento de todo un circuito eléctrico y también de forma individual de forma mas detallada, es muy importante comprender y analizar el comportamiento de la corriente eléctrica ya que esta es el pilar de cualquier mecanismo eléctrico.
 Se coloca 5 resistencias conectadas de forma especificas, 3 de ellas se encuentran en un circuito paralelo y 2 de ellas en un circuito en serie, se puede observar como son distintas las conexiones de estos circuitos ya que en el paralelo observamos como todas las resistencias comparten un punto en común denominado nodo y en cambio el circuito en serie no.
 Al realizar este tipo de conexión mixta se analiza de forma individual como un circuito en paralelo es mas eficiente que un circuito en serie ya que al tener una conexión en serie existe una caída del voltaje llegando así menos energía a cada resistencia mientras siga avanzando el circuito.
+
+6. CONCLUSIONES
+
+* Las Leyes de Kirchhoff muestran de manera objetiva que son importantes en el uso ya que se requiere el manejo de ciertas tecnicas que ayudan a resolver circuitos mixtos de una manera mas efectiva y rapida, ademas estas leyes nos permiten analizar los problemas por medio de 2 tecnicas fundamentales: Mayas y Nodos.
+* El laboratorio resulto ser de gran provecho ya que se pudo armar los circuitos en el simulador, lo que rsulta que haya mayor interes por parte de los estudiantes, para poder ampliar los conocimientos hacia el armado de dichos circuitos.
 
