@@ -16,24 +16,23 @@
 
 2. MARCO TEORICO
 
-![]()
+![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/LeyKir.jpg)
 
-![]()
-
+![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/Ley%20de%20kirchhoff%20(1).jpg)
 
 3. DIAGRAMAS
 
 * Circuito DE TINKERCAD
 
-![]()
+![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/General.png)
 
 * Circuito DE VOLTAJES(V)
 
-![]()
+![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/Voltaje.jpeg)
 
 * Circuito DE CORRIENTE(I)
 
-![]()
+![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/Amperaje.png)
 
 Resultados obtenidos del voltaje y la corriente tanto medido como calculado, la siguienta tabla dichos valores:
 
@@ -80,4 +79,7 @@ Al realizar este tipo de conexión mixta se analiza de forma individual como un 
 
 * Las Leyes de Kirchhoff muestran de manera objetiva que son importantes en el uso ya que se requiere el manejo de ciertas tecnicas que ayudan a resolver circuitos mixtos de una manera mas efectiva y rapida, ademas estas leyes nos permiten analizar los problemas por medio de 2 tecnicas fundamentales: Mayas y Nodos.
 * El laboratorio resulto ser de gran provecho ya que se pudo armar los circuitos en el simulador, lo que rsulta que haya mayor interes por parte de los estudiantes, para poder ampliar los conocimientos hacia el armado de dichos circuitos.
+
+7. BIBLIOGRAFIA
+
 
