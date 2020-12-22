@@ -15,13 +15,13 @@
 * Comparar los resultados teóricos hallados mediante las leyes mencionadas y los experimentales usando equipos de medición y determinar las causas porcentuales de error presentes entre ellos.
 
 2. MARCO TEORICO
-![](https://raw.githubusercontent.com/JosueCamp2020/InformeLeyesKirchhoff/main/Imagenes/Ley%20de%20kirchhoff.jpg)
+![]()
 
-![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/1.jpg)
+![]()
 
-![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/2.jpg)
+![]()
 
-![](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/3.jpg)
+![]()
 
 3. DIAGRAMAS
 
@@ -35,6 +35,7 @@
 | 1 | Resistor de 1.8 kΩ  |
 | 1 | Resistor de 3.9 kΩ  |
 | 1 | Protoboard  |
+
 
 5.EXPLICACIÓN
 
