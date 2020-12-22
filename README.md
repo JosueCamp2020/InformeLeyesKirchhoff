@@ -5,7 +5,7 @@
 
 1.1 OBJETIVOS GENERALES
 
-* Probar la ley de Ohm y las Leyes de Kirchhoff en circuitos resistivo mixtos
+* Probar las Leyes de Kirchhoff en circuitos resistivo mixtos
 
 1.2 OBJETIVOS ESPECIFICOS
 
